@@ -1,0 +1,33 @@
+body {
+background-color: #ffffff;
+text-align: justify;
+color: #454545;
+font-size: medium;
+}
+header{
+background-color: #b4c5e0;
+text-transform: uppercase;
+}
+h2{
+font-size: large;
+color: #d3e0b4;
+font-family: 'Anton', sans-serif;
+}
+p{
+font-family:fantasy;
+color: #000000;
+text-align: justify;
+font-size:medium;
+}
+ul{
+color: black;
+font-size: medium;
+display: inline-block;
+}
+.pourquoi{
+text-align: justify;
+color: unset;
+}
+footer {
+background-color: #b4c5e0;
+}
