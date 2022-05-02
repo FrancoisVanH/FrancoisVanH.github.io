@@ -10,7 +10,7 @@ text-transform: uppercase;
 }
 h2{
 font-size: large;
-color: #d3e0b4;
+color: #4ea3a6;
 font-family: 'Anton', sans-serif;
 }
 p{
@@ -29,5 +29,5 @@ text-align: justify;
 color: unset;
 }
 footer {
-background-color: #b4c5e0;
+background-color: #5e5da3;
 }
