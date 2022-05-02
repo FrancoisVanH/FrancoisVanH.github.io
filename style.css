@@ -5,6 +5,7 @@ color: #454545;
 font-size: medium;
 }
 header{
+font-family:'Oswald', sans-serif;	
 background-color: #91a0c9;
 text-transform: uppercase;
 }
@@ -19,7 +20,7 @@ color: #61082b;
 font-family: 'Anton', sans-serif;
 }
 p{
-font-family:fantasy;
+font-family:'Open Sans', sans-serif;
 color: #000000;
 text-align: justify;
 font-size:medium;
@@ -30,9 +31,11 @@ font-size: medium;
 display: inline-block;
 }
 .pourquoi{
+font-family: 'Open Sans', sans-serif;	
 text-align: justify;
 color: unset;
 }
 footer {
+font-size:'Oswald', sans-serif;
 background-color: #91a0c9;
 }
