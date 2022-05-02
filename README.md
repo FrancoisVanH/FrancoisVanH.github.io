@@ -18,4 +18,6 @@ On this page you'll find :
 Click [here](http://FrancoisVanH.github.io) if you wanna see my page!
 
 Thanks
+
+
 ![bye](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
